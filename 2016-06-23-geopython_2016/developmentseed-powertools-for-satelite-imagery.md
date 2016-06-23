@@ -6,7 +6,7 @@ Slides (including more links): https://github.com/scisco/scisco.github.io/tree/m
 Graphical imagery downloads
 ---------------------------
 
-Data itself provided by google
+The data itself is provided by google
 
 https://fetch.astrodigital.com/#/map/1
 https://libra.developmentseed.org/
@@ -16,7 +16,7 @@ Tools
 -----
 
 https://github.com/sat-utils
-Oganisation dedicated to satelite tools
+Oganisation dedicated to satelite tools - keep an eye on this.
 
 https://github.com/sat-utils/landsat8-util
 Command line utility for searching, downloading, and processing Landsat-8 data 
