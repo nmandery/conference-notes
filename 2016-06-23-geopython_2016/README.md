@@ -12,6 +12,14 @@ The Null Terminator – good input
 http://pivigo.com/
 Pivigo - The Data Science Hub
 
+Geoserver explorer
+------------------
+
+A plugin to configure and manage GeoServer from QGIS.
+
+- https://github.com/boundlessgeo/qgis-geoserver-plugin
+- http://blog.geoserver.org/2015/12/23/geoserver-explorer-plugin-for-qgis/
+
 
 City energy analyst
 -------------------
