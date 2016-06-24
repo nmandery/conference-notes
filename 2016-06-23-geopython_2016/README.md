@@ -1,4 +1,10 @@
 
+GeoPython 2016 in Basel/Muttenz, Switzerland
+============================================
+
+Misc notes
+----------
+
 http://www.nullterminator.org/
 The Null Terminator – good input
 
