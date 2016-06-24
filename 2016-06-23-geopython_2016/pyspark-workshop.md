@@ -1,6 +1,8 @@
 PySpark workshop
 ================
 
+Shoaib Burq http://www.nomad-labs.com/
+
 https://spark.apache.org/ Apache Spark™ is a fast and general engine for large-scale data processing. 
 
 Jupyter notebook and slides: https://github.com/sabman/PySparkGeoAnalysis
