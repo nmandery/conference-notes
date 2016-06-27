@@ -8,8 +8,8 @@ Graphical imagery downloads
 
 The data itself is provided by google
 
-https://fetch.astrodigital.com/#/map/1
-https://libra.developmentseed.org/
+- https://fetch.astrodigital.com/#/map/1
+- https://libra.developmentseed.org/
 
 
 Tools
